@@ -21,5 +21,7 @@ N/A
 
 ## License
 
+Please refer to the LICENSE in the repo.
+
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
