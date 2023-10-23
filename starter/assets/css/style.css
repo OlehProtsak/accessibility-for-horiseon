@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* styles for body section */
 body {
     background-color: #d9dcd6;
 }
-
+/* styles for header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,7 +18,7 @@ header {
 span {
     color: #d9dcd6;
 }
-
+/* styles for main content section */
 main {
     width: 75%;
     display: inline-block;
@@ -48,7 +48,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* styles for navigation bar section */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -65,7 +65,7 @@ li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* styles for section */
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -87,7 +87,7 @@ figure {
     background-size: cover;
     background-position: center;
 }
-
+/* styles for aside section */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -104,7 +104,7 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* styles for footer section */
 footer {
     padding: 30px;
     clear: both;
@@ -121,7 +121,7 @@ div {
     margin-bottom: 32px;
     color: #ffffff; 
 }
-
+/* styles for images position in main section */
 .float-left {
     float: left;
     margin-right: 25px;
